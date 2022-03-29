@@ -21,7 +21,6 @@ class Ship {
 function gameInit() {
   generateShips();
   console.log("Begin Game!");
-  console.log(ships);
 }
 
 function generateShips() {
